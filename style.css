@@ -196,10 +196,10 @@ html{
 }
 .about-text p{
     font-size: 18px;
-    color: darkkhaki;
+    color: black;
 }
 .about-text a {
-    background: darkkhaki;
+    background: black;
     color: #fff;
     padding: 7px 15px;
     display: inline-block;
